@@ -1,0 +1,15 @@
+{
+  "name": "flager",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dark Eyecandy Syntax Theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/flager",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
